@@ -1,10 +1,11 @@
-//Author:
+//Author:Gavin Dacumos 
 #include<iostream>
 
 int main()
 {
   //declare variables here
-
+  int age;
+  int height;
   std::cout<<"Please enter a whole number:\n";
   //get first input using std::cin>>
 
